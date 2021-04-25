@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* read books
+  * non-fiction
+  * fiction
+  * biography
+  * novels
+  * ...
+* pet cats
+  * Kaspar
+  * Erbse
